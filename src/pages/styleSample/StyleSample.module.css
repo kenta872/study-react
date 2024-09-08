@@ -1,0 +1,4 @@
+/* コンポーネント固有に設定可能だが、将来性に懸念があるため、推奨しない */
+.commonButton {
+    background-color: green;
+}
